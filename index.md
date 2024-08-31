@@ -55,3 +55,4 @@ I am **Yaodi Yong**, currently a Postdoc fellow working in the Department of Mat
 - Working towards Associate of the Society of Actuaries (ASA), passed exams include:
   EXAM P, FM, IFM.
 - Beginner-level proficiency in Japanese and Korean.
+- Scorpio and classified as INFJ-T.
