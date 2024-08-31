@@ -8,7 +8,7 @@
   - International Conference on Insurance and Actuarial Science 2024, Nankai University, Tianjin, China.
 - **2023:**
   - Symposium on the Theory and Application of Actuarial Science in China, Wuhan University, Wuhan, China.
-  - The 13th China International Conference on Insurance and Risk Management (CICIRM), Sun Yat-sen University, Guangzhou, China.
+  - The 13th China International Conference on Insurance and Risk Management (CICIRM), Sun Yat-Sen University, Guangzhou, China.
 - **2022:**
   - The 25th International Congress on Insurance: Mathematics and Economics, online.
   - The 5th International Conference on Econometrics and Statistics (EcoSta 2022), online.
