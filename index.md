@@ -19,18 +19,19 @@ I am **Yaodi Yong**, currently a Postdoc fellow working in the Department of Mat
 - **Behavioral Economics**
 - **Credibility theory**
 
-## News
+{% include_relative _includes/publications.md %}
+
+{% include_relative _includes/services.md %}
+
+## Presentations
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
-{% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
-
-## Teaching Experiences
+## Teaching Experience
 - **2018-2022 at the University of Hong Kong:**
   - STAT3910 Financial Economics I: 2018 Fall, 2019 Fall, 2020 Fall, 2021 Fall
   - STAT3911 Financial Economics II: 2019 Spring, 2020 Spring, 2021 Spring, 2022 Spring
