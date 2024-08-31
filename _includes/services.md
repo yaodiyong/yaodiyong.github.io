@@ -1,4 +1,4 @@
-## Services
+## Peer-review Service
 
 - ASTIN Bulletin - The Journal of the International Actuarial Association
 - Risks
