@@ -6,7 +6,7 @@
 
 - <strong>Yong, Y.</strong>, Zeng, P., and Zhang, Y.* Credibility theory for variance premium principle. North American Actuarial Journal, Accepted, 2024.
 
-- Su, W. and <strong>Yong, Y.</strong>*. Estimating a VaR-type ruin measure by Laguerre series expansion in classical compound Poisson risk model. Statistics & Probability Letters, 205, 109962, 2024.
+- Su, W. and <strong>Yong, Y.</strong>* Estimating a VaR-type ruin measure by Laguerre series expansion in classical compound Poisson risk model. Statistics & Probability Letters, 205, 109962, 2024.
 
 - <strong>Yong, Y.</strong>* and Yang, H. Valuation of cliquet-style guarantees with death benefits. Journal of Industrial and Management & Optimization, 19, 359--375, 2023.
 
