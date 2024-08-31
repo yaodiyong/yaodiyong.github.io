@@ -13,9 +13,9 @@ I am **Yaodi Yong**, currently a Postdoc fellow working in the Department of Mat
 
 ## Education Background
 - **Ph.D. in Actuarial Science**, University of Hong Kong, 2022.
-  - Supervisor: Prof. Hailiang Yang.
+  - Supervisor: Prof. <a href="https://scholar.xjtlu.edu.cn/en/persons/HailiangYang/"> Hailiang Yang</a>.
 - **M.Sc in Statistics**, Chongqing University, 2018.
-  - Supervisor: Prof. Zhimin Zhang.
+  - Supervisor: Prof. <a href="https://sci.cqu.edu.cn/info/1270/4432.htm/"> Zhimin Zhang</a>.
 - **B.Sc in Statistics**, Chongqing, University, 2015.  
 
 ## Research Interests
