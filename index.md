@@ -47,3 +47,9 @@ I am **Yaodi Yong**, currently a Postdoc fellow working in the Department of Mat
 - **2015-2018 at Chongqing University:**
   - Probability theory and Statistics: 2015 Fall, 2016 Spring, 2016 Fall
 
+## Selected Awards
+- HKU Postgraduate Scholarship, 2018-2022.
+- National Scholarship for Graduate Students, 2016.
+
+## Miscellaneous
+
