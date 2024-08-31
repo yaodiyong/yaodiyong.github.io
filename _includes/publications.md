@@ -12,10 +12,10 @@
 
 - <strong>Yong, Y.</strong>* and Yang, H. Valuation of cliquet-style guarantees with death benefits in Jump diffusion models. <i><b>Mathematics</b></i>, 2021.(<a href="https://www.mdpi.com/2227-7390/9/16/2011/">Link</a>)
 
-- Zhang Z.*, <strong>Yong, Y.</strong>, and Yu, W. Valuing equity-linked death benefits in general exponential Levy models. <i><b> Journal of Computational and Applied Mathematics</b></i>, 2020.
+- Zhang Z.*, <strong>Yong, Y.</strong>, and Yu, W. Valuing equity-linked death benefits in general exponential Levy models. <i><b> Journal of Computational and Applied Mathematics</b></i>, 2020.(<a href="https://dl.acm.org/doi/10.1016/j.cam.2019.112377/">Link</a>)
 
-- Su, W., <strong>Yong, Y.</strong>, and Zhang, Z.* Estimating the Gerber-Shiu function in the perturbed compound Poisson model by Laguerre series expansion. <i><b>Journal of Mathematical Analysis and Applications</b></i>, 2019.
+- Su, W., <strong>Yong, Y.</strong>, and Zhang, Z.* Estimating the Gerber-Shiu function in the perturbed compound Poisson model by Laguerre series expansion. <i><b>Journal of Mathematical Analysis and Applications</b></i>, 2019.(<a href="https://www.sciencedirect.com/science/article/pii/S0022247X18307820/">Link</a>)
 
-- Yu, W.*, <strong>Yong, Y.</strong>, Guan, G., Huang, Y., Su, W., and Cui, C. Valuing guaranteed minimum death benefits by cosine series expansion. <i><b>Mathematics</b></i>, 2019.
+- Yu, W.*, <strong>Yong, Y.</strong>, Guan, G., Huang, Y., Su, W., and Cui, C. Valuing guaranteed minimum death benefits by cosine series expansion. <i><b>Mathematics</b></i>, 2019.(<a href="https://www.mdpi.com/2227-7390/7/9/835/">Link</a>)
 
-- Zhang, Z.* and <strong>Yong, Y.</strong> Valuing guaranteed equity-linked contracts by Laguerre series expansion. <i><b>Journal of Computational and Applied Mathematics</b></i>, 2019.
+- Zhang, Z.* and <strong>Yong, Y.</strong> Valuing guaranteed equity-linked contracts by Laguerre series expansion. <i><b>Journal of Computational and Applied Mathematics</b></i>, 2019.(<a href="https://www.sciencedirect.com/science/article/pii/S0377042719301141/">Link</a>)
