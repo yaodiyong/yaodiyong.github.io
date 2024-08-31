@@ -19,6 +19,8 @@ I am **Yaodi Yong**, currently a Postdoc fellow working in the Department of Mat
 - **B.Sc in Statistics**, Chongqing, University, 2015.  
 
 ## Research Interests
+I am interested in the field of Actuarial Science. 
+
 - **Optimal (re)insurance**
 - **Financial Economics and Insurance**
 - **Behavioral Economics**
