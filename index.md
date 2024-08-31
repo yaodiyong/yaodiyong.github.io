@@ -25,10 +25,12 @@ I am **Yaodi Yong**, currently a Postdoc fellow working in the Department of Mat
 
 ## Presentations
 
-- **[2024 July]** The 27th International Congress on Insurance: Mathematics and Economics, De Paul University, Chicago, US.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jul. 2024]** The 27th International Congress on Insurance: Mathematics and Economics, De Paul University, Chicago, US.
+- **[Jul. 2024]** The 2nd International Conference on Actuarial Science, Quantitative Finance, and Risk Management, Central University of Finance and Economics, Beijing, China.
+- **[Jun. 2024]** International Conference on Insurance and Actuarial Science 2024, Nankai University, Tianjin, China.
+- **[Oct. 2023]** China Symposium on Actuarial Science and Application, Wuhan University, Wuhan, China.
+- **[Jul. 2023]** The 13th China International Conference on Insurance and Risk Management (CICIRM), Sun Yat-sen University, Guangzhou, China. 
+  
 
 
 ## Teaching Experience
