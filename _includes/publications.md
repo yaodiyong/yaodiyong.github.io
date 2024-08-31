@@ -8,9 +8,9 @@
 
 - Su, W. and <strong>Yong, Y.</strong>* Estimating a VaR-type ruin measure by Laguerre series expansion in classical compound Poisson risk model. <i><b>Statistics & Probability Letters</b></i>, 2024.(<a href="https://www.sciencedirect.com/science/article/pii/S0167715223001864/">Link</a>)
 
-- <strong>Yong, Y.</strong>* and Yang, H. Valuation of cliquet-style guarantees with death benefits. <i><b>Journal of Industrial and Management & Optimization</b></i>, 2023.
+- <strong>Yong, Y.</strong>* and Yang, H. Valuation of cliquet-style guarantees with death benefits. <i><b>Journal of Industrial and Management & Optimization</b></i>, 2023.(<a href="https://www.aimsciences.org/article/doi/10.3934/jimo.2021188/">Link</a>)
 
-- <strong>Yong, Y.</strong>* and Yang, H. Valuation of cliquet-style guarantees with death benefits in Jump diffusion models. <i><b>Mathematics</b></i>, 2021.
+- <strong>Yong, Y.</strong>* and Yang, H. Valuation of cliquet-style guarantees with death benefits in Jump diffusion models. <i><b>Mathematics</b></i>, 2021.(<a href="https://www.mdpi.com/2227-7390/9/16/2011/">Link</a>)
 
 - Zhang Z.*, <strong>Yong, Y.</strong>, and Yu, W. Valuing equity-linked death benefits in general exponential Levy models. <i><b> Journal of Computational and Applied Mathematics</b></i>, 2020.
 
