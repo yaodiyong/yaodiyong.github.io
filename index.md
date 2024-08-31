@@ -27,6 +27,8 @@ I am **Yaodi Yong**, currently a Postdoc fellow working in the Department of Mat
 
 {% include_relative _includes/manuscripts.md %}
 
+{% include_relative _includes/presentations.md %}
+
 {% include_relative _includes/services.md %}
 
 
