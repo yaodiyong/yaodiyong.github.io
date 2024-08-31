@@ -2,7 +2,7 @@
 
 *: Corresponding author.
 
-- <strong>Yong, Y.</strong>, Cheung, K.C., and Zhang, Y.* Optimal reinsurance design under distortion risk measures and reinsurer's default risk with partial recovery. <i>ASTIN Bulletin: The Journal of IAA</i>, Accepted, 2024.
+- <strong>Yong, Y.</strong>, Cheung, K.C., and Zhang, Y.* Optimal reinsurance design under distortion risk measures and reinsurer's default risk with partial recovery. <i><b>ASTIN Bulletin: The Journal of IAA</b></i>, Accepted, 2024.
 
 - <strong>Yong, Y.</strong>, Zeng, P., and Zhang, Y.* Credibility theory for variance premium principle. North American Actuarial Journal, Accepted, 2024.
 
