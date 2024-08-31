@@ -1,6 +1,6 @@
 ## Manuscripts
 
-- <strong>Yong, Y.</strong>, Zhang, Y., and Zhu, X.* Credibility theory under the least squared relative loss function. Submitted, 2024.
+- <strong>Yong, Y.</strong>, Zhang, Y., and <a href="https://www.bschool.cuhk.edu.hk/staff/zhu-xiaobai/"> Zhu, X.</a>* Credibility theory under the least squared relative loss function. Submitted, 2024.
 
 - Cheung, K.C., Song, X., <strong>Yong, Y.</strong>, and Zhang, Y.* Budget-constrained semi-dynamic optimal reinsurance strategies. Submitted, 2024.
 
