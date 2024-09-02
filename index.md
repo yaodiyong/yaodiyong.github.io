@@ -32,7 +32,7 @@ I am interested in the field of Actuarial Science.
 
 {% include_relative _includes/presentations.md %}
 
-{% include_relative _includes/services.md %}
+
 
 
 ## Teaching Experiences
