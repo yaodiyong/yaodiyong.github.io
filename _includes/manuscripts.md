@@ -8,7 +8,7 @@
 
 <li>Boonen, T.J., Jiang, W., <strong>Yong, Y.</strong>, and Zhang, Y.* Optimal insurance design in the presence of disaster financial assistance and subsidies. Submitted, 2024.</li>
 
-<li>Xie, J., <strong>Yong, Y.</strong>, and Zhang Z.* Valuation of guaranteed minimum accumulation benefits with surrender risk in exponential Levy models. Submitted, 2024.</li>
+<li>Xie, J., <strong>Yong, Y.</strong>, and Zhang Z.* Valuation of guaranteed minimum accumulation benefits with surrender risk in exponential L&#233vy models. Submitted, 2024.</li>
 
 <li>Zhang, Y.*, Zhang, J., Pu, T., and <strong>Yong, Y.</strong> Ordering properties of claim spacings from heterogeneous insurance portfolios. Submitted, 2024.</li>
 
