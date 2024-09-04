@@ -15,7 +15,7 @@
 
 <li>Su, W., <strong>Yong, Y.</strong>, and Zhang, Z.* Estimating the Gerber-Shiu function in the perturbed compound Poisson model by Laguerre series expansion. <i><b>Journal of Mathematical Analysis and Applications</b></i>, 2019.(<a href="https://www.sciencedirect.com/science/article/pii/S0022247X18307820/">Link</a>)</li>
 
-<li>Yu, W.*, <strong>Yong, Y.</strong>, Guan, G., Huang, Y., Su, W., and Cui, C. Valuing guaranteed minimum death benefits by cosine series expansion. <i><b>Mathematics</b></i>, 2019.(<a href="https://www.mdpi.com/2227-7390/7/9/835/">Link</a>)</li>
+<li>Yu, W.*, <strong>Yong, Y.</strong>, Guan, G., Huang, Y.*, Su, W., and Cui, C. Valuing guaranteed minimum death benefits by cosine series expansion. <i><b>Mathematics</b></i>, 2019.(<a href="https://www.mdpi.com/2227-7390/7/9/835/">Link</a>)</li>
 
 <li>Zhang, Z.* and <strong>Yong, Y.</strong> Valuing guaranteed equity-linked contracts by Laguerre series expansion. <i><b>Journal of Computational and Applied Mathematics</b></i>, 2019.(<a href="https://www.sciencedirect.com/science/article/pii/S0377042719301141/">Link</a>)</li>
 </ol>
