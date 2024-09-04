@@ -11,7 +11,7 @@
 <li><strong>Yong, Y.</strong>* and Yang, H. Valuation of cliquet-style guarantees with death benefits. <i><b>Journal of Industrial and Management & Optimization</b></i>, 2023.(<a href="https://www.aimsciences.org/article/doi/10.3934/jimo.2021188/">Link</a>)</li>
 
 <li><strong>Yong, Y.</strong>* and Yang, H. Valuation of cliquet-style guarantees with death benefits in Jump diffusion models. <i><b>Mathematics</b></i>, 2021.(<a href="https://www.mdpi.com/2227-7390/9/16/2011/">Link</a>)</li>
-<li>Zhang Z.*, <strong>Yong, Y.</strong>, and Yu, W. Valuing equity-linked death benefits in general exponential Levy models. <i><b> Journal of Computational and Applied Mathematics</b></i>, 2020.(<a href="https://dl.acm.org/doi/10.1016/j.cam.2019.112377/">Link</a>)</li>
+<li>Zhang Z.*, <strong>Yong, Y.</strong>, and Yu, W. Valuing equity-linked death benefits in general exponential L&#233vy models. <i><b> Journal of Computational and Applied Mathematics</b></i>, 2020.(<a href="https://dl.acm.org/doi/10.1016/j.cam.2019.112377/">Link</a>)</li>
 
 <li>Su, W., <strong>Yong, Y.</strong>, and Zhang, Z.* Estimating the Gerber-Shiu function in the perturbed compound Poisson model by Laguerre series expansion. <i><b>Journal of Mathematical Analysis and Applications</b></i>, 2019.(<a href="https://www.sciencedirect.com/science/article/pii/S0022247X18307820/">Link</a>)</li>
 
