@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am **Yaodi Yong**, currently a Postdoc fellow working in the Department of Mathematics at the Southern University of Science and Technology (SUSTech). My supervisor is Dr. <a href="https://sites.google.com/site/yiyingzhang16/home/"> Yiying Zhang</a>. I am currently on the job market and seeking a faculty position in actuarial science.
+I am **Yaodi Yong**, currently a Postdoc fellow working in the Department of Mathematics at the Southern University of Science and Technology (SUSTech). My supervisor is Dr. <a href="https://sites.google.com/site/yiyingzhang16/home/"> Yiying Zhang</a>. **I am currently on the job market and seeking a faculty position in actuarial science.**
 
 
 ## Working Experiences
