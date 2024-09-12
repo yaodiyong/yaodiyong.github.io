@@ -29,10 +29,7 @@ I am interested in the following:
 
 {% include_relative _includes/manuscripts.md %}
 
-{% include_relative _includes/grants.md %}
-
 {% include_relative _includes/presentations.md %}
-
 
 
 
