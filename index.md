@@ -54,8 +54,7 @@ I am interested in the following:
 
 ## Skills
 - Programming: Matlab, R.
-- Working towards Associate of the Society of Actuaries (ASA), passed exams include:
-  - EXAM P, FM, IFM.
+- Working towards Associate of the Society of Actuaries (ASA), passed exams include EXAM P, FM, and IFM.
 - Languages: Mandarin (Native), English (TOEFL 106/120, 2018).
 
 ## Miscellaneous
