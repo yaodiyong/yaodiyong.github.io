@@ -50,9 +50,12 @@ I am interested in the following:
 - HKU Postgraduate Scholarship, 2018-2022.
 - National Scholarship for Graduate Students, 2016.
 
-## Miscellaneous
+## Skills
 - Programming: Matlab, R.
 - Working towards Associate of the Society of Actuaries (ASA), passed exams include:
   - EXAM P, FM, IFM.
+- Languages: Mandarin (Native), English (TOEFL 106/120, 2018).
+
+## Miscellaneous
 - Beginner-level proficiency in Japanese and Korean.
-- Scorpio and classified as INFJ-T.
+- Scorpio and classified as INFJ-A.
