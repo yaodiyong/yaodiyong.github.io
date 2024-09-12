@@ -1,6 +1,7 @@
 ## Publications
 
-*: Corresponding author.
+Note: * denotes the corresponding author, and # means that authors are alphabetically ordered.
+
 <ol>
 <li> <strong>Yong, Y.</strong>, Cheung, K.C., and Zhang, Y.* Optimal reinsurance design under distortion risk measures and reinsurer's default risk with partial recovery. <i><b>ASTIN Bulletin: The Journal of IAA</b></i>, Accepted, 2024.</li>
 
