@@ -35,6 +35,11 @@ I am interested in the following:
 
 
 ## Teaching Experiences
+- **2023-2024 at SUSTech:**
+  - MA407 Selected Topics in Financial Mathematics: 2023 Fall, 2024 Fall
+  - MA322 Life Insurance Actuarial Science: 2024 Spring
+  - MA7092 Stochastic Processes: 2023 Spring
+        
 - **2018-2022 at the University of Hong Kong:**
   - STAT3910 Financial Economics I: 2018 Fall, 2019 Fall, 2020 Fall, 2021 Fall
   - STAT3911 Financial Economics II: 2019 Spring, 2020 Spring, 2021 Spring, 2022 Spring
@@ -46,6 +51,7 @@ I am interested in the following:
 - National Scholarship for Graduate Students, 2016.
 
 ## Miscellaneous
+- Programming: Matlab, R.
 - Working towards Associate of the Society of Actuaries (ASA), passed exams include:
   - EXAM P, FM, IFM.
 - Beginner-level proficiency in Japanese and Korean.
