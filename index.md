@@ -31,6 +31,12 @@ I am interested in the following:
 
 {% include_relative _includes/presentations.md %}
 
+{% include_relative _includes/services.md %}
+
+## Selected Awards
+- HKU Postgraduate Scholarship, 2018-2022.
+- National Scholarship for Graduate Students, 2016.
+
 ## Teaching Experiences
 - **2023-2024 at SUSTech (Grader):**
   - MA407 Selected Topics in Financial Mathematics: 2023 Fall, 2024 Fall
@@ -42,10 +48,6 @@ I am interested in the following:
   - STAT3911 Financial Economics II: 2019 Spring, 2020 Spring, 2021 Spring, 2022 Spring
 - **2015-2018 at Chongqing University (Teaching assistant):**
   - Probability theory and Statistics: 2015 Fall, 2016 Spring, 2016 Fall
-
-## Selected Awards
-- HKU Postgraduate Scholarship, 2018-2022.
-- National Scholarship for Graduate Students, 2016.
 
 ## Skills
 - Programming: Matlab, R.
