@@ -7,7 +7,7 @@
 
 <li>Boonen, T.J., Jiang, W., <strong>Yong, Y.#</strong>, and Zhang, Y.* (2024). Optimal insurance design in the presence of disaster financial assistance and subsidies. Submitted.</li>
 
-<li><strong>Yong, Y.</strong>, Zhang, Y.*, and Zhu, X. (2024). Credibility theory under the least squared relative loss function. Submitted.</li>
+<li><strong>Yong, Y.</strong>, Zhang, Y.*, and Zhu, X. (2024). Credibility theory under the least squared relative loss function. Revised and resubmitted.</li>
 
 <li>Xie, J., <strong>Yong, Y.</strong>, and Zhang Z.* (2024). Valuation of guaranteed minimum accumulation benefits with surrender risk in exponential Levy models. Submitted.</li>
 
