@@ -9,7 +9,7 @@
 
 <li><strong>Yong, Y.</strong>, Zhang, Y.*, and Zhu, X. (2024). Credibility theory under the least squared relative loss function. Revised and resubmitted.</li>
 
-<li>Xie, J., <strong>Yong, Y.</strong>, and Zhang Z.* (2024). Valuation of guaranteed minimum accumulation benefits with surrender risk in exponential Levy models. Submitted.</li>
+<li>Xie, J., <strong>Yong, Y.</strong>, and Zhang Z.* (2024). Valuation of guaranteed minimum accumulation benefits with surrender risk in exponential Lévy models. Submitted.</li>
 
 <li>Zhang, Y.*, Zhang, J., Pu, T., and <strong>Yong, Y.</strong> (2024). Ordering properties of claim spacings from heterogeneous insurance portfolios. Submitted.</li>
 
