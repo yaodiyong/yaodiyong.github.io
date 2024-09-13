@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am **Yaodi Yong**, currently a Postdoc fellow working in the Department of Mathematics at the Southern University of Science and Technology (SUSTech). My supervisor is Dr. <a href="https://sites.google.com/site/yiyingzhang16/home/"> Yiying Zhang</a>. **I am currently on the job market and seeking a faculty position in actuarial science.**
+I am **Yaodi Yong**, currently a Postdoc fellow working in the Department of Mathematics at the Southern University of Science and Technology (SUSTech). My supervisor is <a href="https://sites.google.com/site/yiyingzhang16/home/">Asst. Prof. Yiying Zhang</a>. **I am currently on the job market and seeking a faculty position in actuarial science.**
 
 
 ## Working Experiences
@@ -13,9 +13,9 @@ I am **Yaodi Yong**, currently a Postdoc fellow working in the Department of Mat
 
 ## Education Background
 - **Ph.D. in Actuarial Science**, University of Hong Kong, 2018-2022.
-  - Supervisor: Prof. <a href="https://scholar.xjtlu.edu.cn/en/persons/HailiangYang/"> Hailiang Yang</a>.
+  - Supervisor: <a href="https://scholar.xjtlu.edu.cn/en/persons/HailiangYang/">Prof. Hailiang Yang</a>.
 - **M.Sc in Statistics**, Chongqing University, 2015-2018.
-  - Supervisor: Prof. <a href="https://sci.cqu.edu.cn/info/1270/4432.htm/"> Zhimin Zhang</a>.
+  - Supervisor: <a href="https://sci.cqu.edu.cn/info/1270/4432.htm/">Prof. Zhimin Zhang</a>.
 - **B.Sc in Statistics**, Chongqing University, 2011-2015.  
 
 ## Research Interests
