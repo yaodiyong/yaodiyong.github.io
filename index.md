@@ -8,9 +8,9 @@ I am **Yaodi Yong**, currently a Postdoc fellow working in the Department of Mat
 
 
 ## Working Experiences
-- **Postdoc Fellow**, SUSTech, <i> February 2023 - Present </i>
+- **Postdoc Fellow at Department of Mathematics**, SUSTech, <i> February 2023 - Present </i>
   - Supervisor: <a href="https://sites.google.com/site/yiyingzhang16/home/">Asst. Prof. Yiying Zhang</a>
-- **Visiting Scholar**, SUSTech, <i> November 2022 - January 2023 </i>
+- **Visiting Scholar at Department of Mathematics**, SUSTech, <i> November 2022 - January 2023 </i>
 
 ## Education Background
 - **Ph.D. in Actuarial Science**, University of Hong Kong, <i> September 2018- September 2022 </i>
