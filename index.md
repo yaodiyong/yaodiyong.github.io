@@ -8,7 +8,7 @@ I am **Yaodi Yong**, currently a Postdoc fellow working in the Department of Mat
 
 
 ## Working Experiences
-- **Postdoc Fellow**, SUSTech, February 2023 - Present
+- **Postdoc Fellow**, SUSTech, <i> February 2023 - Present </i>
   - Supervisor: <a href="https://sites.google.com/site/yiyingzhang16/home/">Asst. Prof. Yiying Zhang</a>
 - **Visiting Scholar**, SUSTech, November 2022 - January 2023
 
