@@ -10,14 +10,14 @@ I am **Yaodi Yong**, currently a Postdoc fellow working in the Department of Mat
 ## Working Experiences
 - **Postdoc Fellow**, SUSTech, <i> February 2023 - Present </i>
   - Supervisor: <a href="https://sites.google.com/site/yiyingzhang16/home/">Asst. Prof. Yiying Zhang</a>
-- **Visiting Scholar**, SUSTech, November 2022 - January 2023
+- **Visiting Scholar**, SUSTech, <i> November 2022 - January 2023 </i>
 
 ## Education Background
-- **Ph.D. in Actuarial Science**, University of Hong Kong, September 2018- September 2022
+- **Ph.D. in Actuarial Science**, University of Hong Kong, <i> September 2018- September 2022 </i>
   - Supervisor: <a href="https://scholar.xjtlu.edu.cn/en/persons/HailiangYang/">Prof. Hailiang Yang</a>
-- **M.Sc in Statistics**, Chongqing University, September 2015 - June 2018
+- **M.Sc in Statistics**, Chongqing University, <i> September 2015 - June 2018 </i>
   - Supervisor: <a href="https://faculty.cqu.edu.cn/ZhiminZhang/en/index.htm/">Prof. Zhimin Zhang</a>
-- **B.Sc in Statistics**, Chongqing University, September 2011 - June 2015
+- **B.Sc in Statistics**, Chongqing University, <i> September 2011 - June 2015 </i>
   - Supervisor: <a href="https://faculty.cqu.edu.cn/ZhiminZhang/en/index.htm/">Prof. Zhimin Zhang</a> 
 
 ## Research Interests
@@ -38,23 +38,23 @@ I am interested in the following:
 {% include_relative _includes/services.md %}
 
 ## Selected Awards
-- HKU Postgraduate Scholarship, 2018-2022
-- HKU SAAS Excellent Research Award, 2021
-- Outstanding Graduate Student in Chongqing, 2018
-- National Scholarship for Graduate Students, 2016
+- HKU Postgraduate Scholarship, <i> 2018-2022 </i>
+- HKU SAAS Excellent Research Award, <i> 2021 </i>
+- Outstanding Graduate Student in Chongqing, <i> 2018 </i>
+- National Scholarship for Graduate Students, <i> 2016 </i>
 
 ## Teaching Experiences
 - **2023-2024 at SUSTech (Grader):**
-  - MA407 Selected Topics in Financial Mathematics: 2023 Fall, 2024 Fall
-  - MA322 Life Insurance Actuarial Science: 2024 Spring
-  - MA7092 Stochastic Processes: 2023 Spring
+  - MA407 Selected Topics in Financial Mathematics: <i> 2024 Fall, 2023 Fall </i>
+  - MA322 Life Insurance Actuarial Science: <i> 2024 Spring </i>
+  - MA7092 Stochastic Processes: <i> 2023 Spring </i>
         
 - **2018-2022 at the University of Hong Kong (Teaching assistant):**
-  - STAT3910 Financial Economics I: 2018 Fall, 2019 Fall, 2020 Fall, 2021 Fall
-  - STAT3911 Financial Economics II: 2019 Spring, 2020 Spring, 2021 Spring, 2022 Spring
-  - 
+  - STAT3911 Financial Economics II: <i> Springs, 2019 - 2022 </i>
+  - - STAT3910 Financial Economics I: <i> Falls, 2018 - 2021 </i>
+    
 - **2015-2018 at Chongqing University (Teaching assistant):**
-  - Probability and Statistics: 2015 Fall, 2016 Spring, 2016 Fall
+  - Probability and Statistics: <i> Fall 2016, Spring 2016, Fall 2015 </o>
 
 ## Professional Certification
 - Society of Actuaries: P, FM and IFM exams
