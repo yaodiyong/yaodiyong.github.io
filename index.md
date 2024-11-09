@@ -38,8 +38,10 @@ I am interested in the following:
 {% include_relative _includes/services.md %}
 
 ## Selected Awards
-- HKU Postgraduate Scholarship, 2018-2022.
-- National Scholarship for Graduate Students, 2016.
+- HKU Postgraduate Scholarship, 2018-2022
+- HKU SAAS Excellent Research Award, 2021
+- Outstanding Graduate Student in Chongqing, 2018
+- National Scholarship for Graduate Students, 2016
 
 ## Teaching Experiences
 - **2023-2024 at SUSTech (Grader):**
@@ -50,12 +52,15 @@ I am interested in the following:
 - **2018-2022 at the University of Hong Kong (Teaching assistant):**
   - STAT3910 Financial Economics I: 2018 Fall, 2019 Fall, 2020 Fall, 2021 Fall
   - STAT3911 Financial Economics II: 2019 Spring, 2020 Spring, 2021 Spring, 2022 Spring
+  - 
 - **2015-2018 at Chongqing University (Teaching assistant):**
-  - Probability theory and Statistics: 2015 Fall, 2016 Spring, 2016 Fall
+  - Probability and Statistics: 2015 Fall, 2016 Spring, 2016 Fall
 
+## Professional Certification
+- Society of Actuaries: P, FM and IFM exams
+  
 ## Skills
 - Programming: Matlab, R.
-- Working towards Associate of the Society of Actuaries (ASA), passed exams include EXAM P, FM, and IFM.
 - Languages: Mandarin (Native), English (TOEFL 106/120, 2018).
 
 ## Miscellaneous
