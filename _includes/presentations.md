@@ -2,6 +2,7 @@
 ## Presentations
 
 - **2024:**
+  - The 15th China Forum for Risk Management and Actuarial Science, Shanghai University of Finance and Economics, Shanghai, China.
   - The 27th International Congress on Insurance: Mathematics and Economics, DePaul University, Chicago, US.
   - The 3rd Symposium on Financial Mathematics, Financial Engineering, and Insurance, Southwestern University of Finance and Economics, Chengdu, China.
   - The 2nd International Conference on Actuarial Science, Quantitative Finance, and Risk Management, Central University of Finance and Economics, Beijing, China.
