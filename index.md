@@ -54,7 +54,7 @@ I am interested in the following:
   - - STAT3910 Financial Economics I: <i> Falls, 2018 - 2021 </i>
     
 - **2015-2018 at Chongqing University (Teaching assistant):**
-  - Probability and Statistics: <i> Fall 2016, Spring 2016, Fall 2015 </o>
+  - Probability and Statistics: <i> Fall 2016, Spring 2016, Fall 2015 </i>
 
 ## Professional Certification
 - Society of Actuaries: P, FM and IFM exams
