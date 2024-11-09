@@ -8,15 +8,17 @@ I am **Yaodi Yong**, currently a Postdoc fellow working in the Department of Mat
 
 
 ## Working Experiences
-- **Postdoc Fellow**, SUSTech, 2023/01-Now.
-- **Visiting Scholar**, SUSTech, 2022/11-2023/01.
+- **Postdoc Fellow**, SUSTech, February 2023 - Present
+  - Supervisor: <a href="https://sites.google.com/site/yiyingzhang16/home/">Asst. Prof. Yiying Zhang</a>
+- **Visiting Scholar**, SUSTech, November 2022 - January 2023
 
 ## Education Background
-- **Ph.D. in Actuarial Science**, University of Hong Kong, 2018-2022.
-  - Supervisor: <a href="https://scholar.xjtlu.edu.cn/en/persons/HailiangYang/">Prof. Hailiang Yang</a>.
-- **M.Sc in Statistics**, Chongqing University, 2015-2018.
-  - Supervisor: <a href="https://faculty.cqu.edu.cn/ZhiminZhang/en/index.htm/">Prof. Zhimin Zhang</a>.
-- **B.Sc in Statistics**, Chongqing University, 2011-2015.  
+- **Ph.D. in Actuarial Science**, University of Hong Kong, September 2018- September 2022
+  - Supervisor: <a href="https://scholar.xjtlu.edu.cn/en/persons/HailiangYang/">Prof. Hailiang Yang</a>
+- **M.Sc in Statistics**, Chongqing University, September 2015 - June 2018
+  - Supervisor: <a href="https://faculty.cqu.edu.cn/ZhiminZhang/en/index.htm/">Prof. Zhimin Zhang</a>
+- **B.Sc in Statistics**, Chongqing University, September 2011 - June 2015
+  - Supervisor: <a href="https://faculty.cqu.edu.cn/ZhiminZhang/en/index.htm/">Prof. Zhimin Zhang</a> 
 
 ## Research Interests
 I am interested in the following:
