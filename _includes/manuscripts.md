@@ -1,9 +1,9 @@
 ## Working papers
 <ol>
 
-<li><strong>Yong, Y.</strong>, Boonen, T.J., Jiang, W., and Zhang, Y.* (2024). Mechanism design of government premium subsidies and disaster relief based on catastrophe insurance.
+<li><strong>Yong, Y.</strong>, Boonen, T.J., Jiang, W., and Zhang, Y.* (2024). Mechanism design of government premium subsidies and disaster relief based on catastrophe insurance. </li>
   
-<li><strong>Yong, Y.</strong>, Cheung, K.C., and Zhang, Y.* (2024). Optimal catastrophe insurance design with government relief under distortion risk measures. Submitted.</li>
+<li><strong>Yong, Y.</strong>, Cheung, K.C., and Zhang, Y.* (2024). Optimal catastrophe insurance design with government relief under distortion risk measures. </li>
 
 <li>Cheung, K.C., Song, X., <strong>Yong, Y.*</strong>, and Zhang, Y. (2024). Budget-constrained semi-dynamic optimal reinsurance strategies. Submitted.</li>
 
