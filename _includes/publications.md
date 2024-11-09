@@ -3,7 +3,7 @@
 Note: * denotes the corresponding author, and # means that authors are alphabetically ordered.
 
 <ol>
-<li> <strong>Yong, Y.</strong>, Cheung, K.C., and Zhang, Y.* (2024). Optimal reinsurance design under distortion risk measures and reinsurer's default risk with partial recovery. <i><b>ASTIN Bulletin: The Journal of IAA</b></i>. Accepted.</li>
+<li> <strong>Yong, Y.</strong>, Cheung, K.C., and Zhang, Y.* (2024). Optimal reinsurance design under distortion risk measures and reinsurer's default risk with partial recovery. <i><b>ASTIN Bulletin: The Journal of IAA</b></i>. (<a href="https://www.cambridge.org/core/journals/astin-bulletin-journal-of-the-iaa/article/optimal-reinsurance-design-under-distortion-risk-measures-and-reinsurers-default-risk-with-partial-recovery/15907E25CDA6BF1B69E6930E002FF5E0">Link</a>) </li>
 
 <li> <strong>Yong, Y.</strong>, Zeng, P., and Zhang, Y.* (2024). Credibility theory for variance premium principle. <i><b>North American Actuarial Journal</b></i>. Accepted.</li>
 
