@@ -1,7 +1,7 @@
 ## Working papers
 <ol>
 
-<li><strong>Yong, Y.</strong>, Boonen, T.J., Jiang, W., and Zhang, Y.* (2024). Coordinating premium subsidies and relief payments in catastrophe insurance markets. </li>
+<li><strong>Yong, Y.</strong>, Boonen, T.J., Jiang, W., and Zhang, Y.* (2024). Coordinating premium subsidies and relief payments in catastrophe insurance markets. Submitted. </li>
   
 <li><strong>Yong, Y.</strong>, Cheung, K.C., Wang, W., and Zhang, Y.* (2024). Optimal catastrophe insurance design with government relief under distortion risk measures. </li>
 
