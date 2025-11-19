@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am **Yaodi Yong**. I am an associate professor at <a href="https://cias.nankai.edu.cn/">Nankai-Taikang College of Insurance and Actuarial Science</a>, Nankai University. Prior to this, I was a Postdoc fellow working in the Department of Mathematics at the Southern University of Science and Technology (SUSTech). My advisor is <a href="https://sites.google.com/site/yiyingzhang16/home/">Asst. Prof. Yiying Zhang</a>. 
+I am **Yaodi Yong**. I am an associate professor at <a href="https://cias.nankai.edu.cn/">Nankai-Taikang College of Insurance and Actuarial Science</a>, Nankai University. Prior to this, I was a Postdoc fellow advised by <a href="https://www.bschool.cuhk.edu.hk/staff/zhu-xiaobai/">Prof. Xiaobai Zhu </a> at Department of Finance, The Chinese University of Hong Kong, and I was also advised by <a href="https://sites.google.com/site/yiyingzhang16/home/"> Prof. Yiying Zhang</a> at Department of Mathematics, Southern University of Science and Technology (SUSTech). 
 
 
 ## Working Experiences
