@@ -4,10 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am **Yaodi Yong**, currently a Postdoc fellow working in the Department of Mathematics at the Southern University of Science and Technology (SUSTech). My advisor is <a href="https://sites.google.com/site/yiyingzhang16/home/">Asst. Prof. Yiying Zhang</a>. **I am currently on the job market and seeking a faculty position in actuarial science.** 
+I am **Yaodi Yong**. I am an associate professor at <a href="https://cias.nankai.edu.cn/">Nankai-Taikang College of Insurance and Actuarial Science</a>, Nankai University. Prior to this, I was a Postdoc fellow working in the Department of Mathematics at the Southern University of Science and Technology (SUSTech). My advisor is <a href="https://sites.google.com/site/yiyingzhang16/home/">Asst. Prof. Yiying Zhang</a>. 
 
 
 ## Working Experiences
+- **Associate Professor at Nankai-Taikang CIAS**, Nankai University, <i> October 2025 - Present </i>
+- **Postdoc Fellow at Department of Finance**, CUHK, <i> February 2025 - September 2025 </i>
 - **Postdoc Fellow at Department of Mathematics**, SUSTech, <i> February 2023 - Present </i>
   - Supervisor: <a href="https://sites.google.com/site/yiyingzhang16/home/">Asst. Prof. Yiying Zhang</a>
 - **Visiting Scholar at Department of Mathematics**, SUSTech, <i> November 2022 - January 2023 </i>
