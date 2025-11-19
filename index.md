@@ -6,18 +6,18 @@ layout: homepage
 
 I am **Yaodi Yong**. I am an associate professor at <a href="https://cias.nankai.edu.cn/">Nankai-Taikang College of Insurance and Actuarial Science</a>, Nankai University. 
 
-Prior to this, I was a Postdoc fellow advised by Prof. <a href="https://www.bschool.cuhk.edu.hk/staff/zhu-xiaobai/">Xiaobai Zhu </a> at Department of Finance, The Chinese University of Hong Kong, and I was also advised by Prof. <a href="https://sites.google.com/site/yiyingzhang16/home/">Yiying Zhang </a> at Department of Mathematics, Southern University of Science and Technology. 
+Prior to this, I was a Postdoc fellow advised by Prof. <a href="https://www.bschool.cuhk.edu.hk/staff/zhu-xiaobai/">Xiaobai Zhu </a> at Department of Finance, The Chinese University of Hong Kong (CUHK), and I was also advised by Prof. <a href="https://sites.google.com/site/yiyingzhang16/home/">Yiying Zhang </a> at Department of Mathematics, Southern University of Science and Technology (SUSTech). 
 
 
 ## Working Experiences
 - **Associate Professor at Nankai-Taikang CIAS**, Nankai University, <i> October 2025 - Present </i>
-- **Postdoc Fellow at Department of Finance**, Chinese University of Hong Kong, <i> February 2025 - September 2025 </i>
-- **Postdoc Fellow at Department of Mathematics**, Southern University of Science and Technology, <i> February 2023 - Present </i>
+- **Postdoc Fellow at Department of Finance**, CUHK, <i> February 2025 - September 2025 </i>
+- **Postdoc Fellow at Department of Mathematics**, SUSTech, <i> February 2023 - Present </i>
   - Supervisor: <a href="https://sites.google.com/site/yiyingzhang16/home/">Asst. Prof. Yiying Zhang</a>
-- **Visiting Scholar at Department of Mathematics**, Southern University of Science and Technology, <i> November 2022 - January 2023 </i>
+- **Visiting Scholar at Department of Mathematics**, SUSTech, <i> November 2022 - January 2023 </i>
 
 ## Education Background
-- **Ph.D. in Actuarial Science**, University of Hong Kong, <i> September 2018- September 2022 </i>
+- **Ph.D. in Actuarial Science**, The University of Hong Kong, <i> September 2018- September 2022 </i>
   - Supervisor: <a href="https://scholar.xjtlu.edu.cn/en/persons/HailiangYang/">Prof. Hailiang Yang</a>
 - **M.Sc in Statistics**, Chongqing University, <i> September 2015 - June 2018 </i>
   - Supervisor: <a href="https://faculty.cqu.edu.cn/ZhiminZhang/en/index.htm/">Prof. Zhimin Zhang</a>
