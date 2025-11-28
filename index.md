@@ -35,14 +35,6 @@ I am interested in the following:
 
 {% include_relative _includes/manuscripts.md %}
 
-
 ## Professional Certification
 - Society of Actuaries: P, FM, and IFM exams
   
-## Skills
-- Programming: Matlab, R.
-- Languages: Mandarin (Native), English (TOEFL 106/120, 2018).
-
-## Miscellaneous
-- Beginner-level proficiency in Japanese and Korean.
-- Scorpio and classified as INFJ-A.
