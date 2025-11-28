@@ -35,11 +35,11 @@ I am interested in the following:
 
 {% include_relative _includes/manuscripts.md %}
 
-{% include_relative _includes/grants.md %}
+# {% include_relative _includes/grants.md %}
 
-{% include_relative _includes/presentations.md %}
+# {% include_relative _includes/presentations.md %}
 
-{% include_relative _includes/services.md %}
+# {% include_relative _includes/services.md %}
 
 ## Selected Awards
 - HKU Postgraduate Scholarship, <i> 2018-2022 </i>
@@ -48,20 +48,20 @@ I am interested in the following:
 - National Scholarship for Graduate Students, <i> 2016 </i>
 
 ## Teaching Experiences
-- **2023-2024 at SUSTech (Grader):**
-  - MA407 Selected Topics in Financial Mathematics: <i> 2024 Fall, 2023 Fall </i>
-  - MA322 Life Insurance Actuarial Science: <i> 2024 Spring </i>
-  - MA7092 Stochastic Processes: <i> 2023 Spring </i>
+# - **2023-2024 at SUSTech (Grader):**
+#  - MA407 Selected Topics in Financial Mathematics: <i> 2024 Fall, 2023 Fall </i>
+#  - MA322 Life Insurance Actuarial Science: <i> 2024 Spring </i>
+#  - MA7092 Stochastic Processes: <i> 2023 Spring </i>
         
-- **2018-2022 at the University of Hong Kong (Teaching assistant):**
-  - STAT3911 Financial Economics II: <i> Springs, 2019 - 2022 </i>
-  - - STAT3910 Financial Economics I: <i> Falls, 2018 - 2021 </i>
+#- **2018-2022 at the University of Hong Kong (Teaching assistant):**
+#  - STAT3911 Financial Economics II: <i> Springs, 2019 - 2022 </i>
+#  - - STAT3910 Financial Economics I: <i> Falls, 2018 - 2021 </i>
     
-- **2015-2018 at Chongqing University (Teaching assistant):**
+#- **2015-2018 at Chongqing University (Teaching assistant):**
   - Probability and Statistics: <i> Fall 2016, Spring 2016, Fall 2015 </i>
 
 ## Professional Certification
-- Society of Actuaries: P, FM and IFM exams
+- Society of Actuaries: P, FM, and IFM exams
   
 ## Skills
 - Programming: Matlab, R.
