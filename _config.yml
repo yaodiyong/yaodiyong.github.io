@@ -21,7 +21,7 @@ researchgate: https://www.researchgate.net/profile/Yaodi-Yong?ev=hdr_xprf
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/me.png
-favicon: ./assets/img/sun.png
+favicon: ./assets/img/moon.png
 favicon_dark: ./assets/img/moon.png
 
 # Footnote
