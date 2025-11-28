@@ -4,6 +4,9 @@ Note: * denotes the corresponding author, and # means that authors are alphabeti
 
 <ol>
 
+
+<li> Boonen, T.J., Jiang, W., <strong>Yong, Y.</strong>, Zhang, Y.*. (2025). Optimal insurance design in the presence of government financial assistance. <i><b> Scandinavian Actuarial Journal</b></i>.(<a href="https://www.tandfonline.com/doi/full/10.1080/03461238.2025.2471334">Link</a>) </li>
+
 <li> <strong>Yong, Y.</strong>, Zhang, Y.*, and Zhu, X. (2024). Credibility theory under the least squared relative loss function. <i><b> Applied Stochastic Models in Business and Industry</b></i>.(<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/asmb.2913">Link</a>) </li>
   
 <li> <strong>Yong, Y.</strong>, Cheung, K.C., and Zhang, Y.* (2024). Optimal reinsurance design under distortion risk measures and reinsurer's default risk with partial recovery. <i><b>ASTIN Bulletin: The Journal of IAA</b></i>. (<a href="https://www.cambridge.org/core/journals/astin-bulletin-journal-of-the-iaa/article/optimal-reinsurance-design-under-distortion-risk-measures-and-reinsurers-default-risk-with-partial-recovery/15907E25CDA6BF1B69E6930E002FF5E0">Link</a>) </li>
