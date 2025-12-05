@@ -10,7 +10,7 @@ Prior to this, I was a Postdoc fellow advised by Prof. <a href="https://www.bsch
 
 
 ## Working Experiences
-- **Associate Professor at Nankai-Taikang CIAS**, Nankai University, <i> October 2025 - Present </i>
+- **Associate Professor at NKCIAS**, Nankai University, <i> October 2025 - Present </i>
 - **Postdoc Fellow at Department of Finance**, CUHK, <i> February 2025 - September 2025 </i>
 - **Postdoc Fellow at Department of Mathematics**, SUSTech, <i> February 2023 - Present </i>
   - Advised by: <a href="https://sites.google.com/site/yiyingzhang16/home/">Asst. Prof. Yiying Zhang</a>
