@@ -2,6 +2,9 @@
 layout: homepage
 ---
 
+I am Yaodi Yong. I am an associate professor at the <a href="https://cias.nankai.edu.cn/">Nankai-Taikang College of Insurance and Actuarial Science </a>, Nankai University.
+
+
 ## Employment 
 - **Associate Professor at NKCIAS**, Nankai University, <i> October 2025 - Present </i>
 
