@@ -4,6 +4,7 @@ Note: * denotes the corresponding author, and # means that authors are alphabeti
 
 <ol>
 
+<li> Wang, W., <strong>Yong, Y.</strong>, Cheung, K.C., Zhang, Y.*. (2026). Insurance demand under government interventions and distorted probabilities. <i><b> Insurance: Mathematics and Economics</b></i>. Forthcoming. </li>
 
 <li> Boonen, T.J., Jiang, W., <strong>Yong, Y.</strong>, Zhang, Y.*. (2025). Optimal insurance design in the presence of government financial assistance. <i><b> Scandinavian Actuarial Journal</b></i>.(<a href="https://www.tandfonline.com/doi/full/10.1080/03461238.2025.2471334">Link</a>) </li>
 
