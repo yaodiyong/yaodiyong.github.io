@@ -24,11 +24,7 @@ I am Yaodi Yong. I am an associate professor at the <a href="https://cias.nankai
   - Supervised by: <a href="https://faculty.cqu.edu.cn/ZhiminZhang/en/index.htm/">Prof. Zhimin Zhang</a> 
 
 ## Research Interests
-I am interested in the following:
-- **Insurance Economics**
-- **Risk Management and Actuarial Science**
-- **Financial Mathematics**
-- **Credibility theory**
+I am interested in the following: **Insurance Economics**, **Risk Management and Actuarial Science**, **Financial Mathematics**, **Credibility theory**.
 
 {% include_relative _includes/publications.md %}
 
