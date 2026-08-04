@@ -34,6 +34,8 @@ I am interested in the following:
 
 {% include_relative _includes/manuscripts.md %}
 
+{% include_relative _includes/services.md %}
+
 ## Professional Certification
 - Society of Actuaries: P, FM, and IFM exams
   
