@@ -32,6 +32,8 @@ I am interested in the following: **Insurance Economics**, **Risk Management and
 
 {% include_relative _includes/services.md %}
 
+{% include_relative _includes/grants.md %}
+
 ## Professional Certification
 - Society of Actuaries: P, FM, and IFM exams
   
