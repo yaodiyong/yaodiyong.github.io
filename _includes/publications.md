@@ -28,3 +28,15 @@ Note: * denotes the corresponding author, and # means that authors are alphabeti
 
 <li>Zhang, Z.* and <strong>Yong, Y.</strong> (2019). Valuing guaranteed equity-linked contracts by Laguerre series expansion. <i><b>Journal of Computational and Applied Mathematics</b></i>.(<a href="https://www.sciencedirect.com/science/article/pii/S0377042719301141/">Link</a>)</li>
 </ol>
+
+
+## Working papers
+<ol>
+
+<li><strong>Yong, Y.</strong>, Boonen, T.J., Jiang, W., and Zhang, Y.* (2025). Coordinating premium subsidies and relief payments in catastrophe insurance markets. Under Revision. </li>
+
+<li>Cheung, K.C., Song, X., <strong>Yong, Y.*</strong>, and Zhang, Y. (2024). Budget-constrained semi-dynamic optimal reinsurance strategies. Under Revision. </li>
+
+<li>Zhang, Y.*, Zhang, J., Pu, T., and <strong>Yong, Y.</strong> (2024). Ordering properties of claim spacings from heterogeneous insurance portfolios. Under Revision.</li>
+
+</ol>
