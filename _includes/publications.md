@@ -33,13 +33,13 @@ Note: * denotes the corresponding author, and # means that authors are alphabeti
 ## Working papers
 <ol>
 
-<li><strong>Yong, Y.</strong>, Boonen, T.J., Jiang, W., and Zhang, Y.* (2025). Optimal relief in catastrophe insurance with premium subsidies: A welfare-based analysis. Under Review. </li>
-
 <li>Pu, T., <strong>Yong, Y.</strong>, Zhang, J. and Zhang, Y. (2024). Stochastic Dominance for Claim Spacings from Heterogeneous Insurance Portfolios. Under Revision. </li>
 
 <li>Cheung, K.C., Song, X., <strong>Yong, Y.*</strong>, and Zhang, Y. (2024). Budget-constrained semi-dynamic optimal reinsurance strategies. Under Revision.</li>
 
+<li><strong>Yong, Y.</strong>, Boonen, T.J., Jiang, W., and Zhang, Y.* (2026). Optimal relief in catastrophe insurance with premium subsidies: A welfare-based analysis. Under Review. </li>
 
+<li><strong>Yong, Y.</strong>, Zhang, Y., and Zhu, X. (20256) Risk sharing with government protection under distorted probabilities. Under Review.</li>
 
 
 </ol>
