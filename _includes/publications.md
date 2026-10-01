@@ -4,6 +4,8 @@ Note: * denotes the corresponding author, and # means that authors are alphabeti
 
 <ol>
 
+<li>Cheung, K.C., Song, X., <strong>Yong, Y.*</strong>, and Zhang, Y. (2026). Budget-constrained semi-dynamic optimal reinsurance strategies. <i><b>Journal of Industrial and Management & Optimization</b></i>. Forthcoming. </li>
+
 <li> Wang, W., <strong>Yong, Y.</strong>, Cheung, K.C., Zhang, Y.*. (2026). Insurance demand under government interventions and distorted probabilities. <i><b> Insurance: Mathematics and Economics</b></i>. Forthcoming. </li>
 
 <li> Boonen, T.J., Jiang, W., <strong>Yong, Y.</strong>, Zhang, Y.*. (2025). Optimal insurance design in the presence of government financial assistance. <i><b> Scandinavian Actuarial Journal</b></i>.(<a href="https://www.tandfonline.com/doi/full/10.1080/03461238.2025.2471334">Link</a>) </li>
@@ -35,7 +37,6 @@ Note: * denotes the corresponding author, and # means that authors are alphabeti
 
 <li>Pu, T., <strong>Yong, Y.</strong>, Zhang, J. and Zhang, Y. (2024). Stochastic Dominance for Claim Spacings from Heterogeneous Insurance Portfolios. Under Revision. </li>
 
-<li>Cheung, K.C., Song, X., <strong>Yong, Y.*</strong>, and Zhang, Y. (2024). Budget-constrained semi-dynamic optimal reinsurance strategies. Under Revision.</li>
 
 <li><strong>Yong, Y.</strong>, Boonen, T.J., Jiang, W., and Zhang, Y.* (2026). Optimal relief in catastrophe insurance with premium subsidies: A welfare-based analysis. Under Review. </li>
 
