@@ -37,7 +37,7 @@ Note: * denotes the corresponding author, and # means that authors are alphabeti
 ## Working papers
 <ol>
 
-<li><strong>Yong, Y.</strong>, Boonen, T.J., Jiang, W., and Zhang, Y.* (2026). Optimal relief in catastrophe insurance with premium subsidies: A welfare-based analysis. Under Review. </li>
+<li><strong>Yong, Y.</strong>, Boonen, T.J., Jiang, W., and Zhang, Y.* (2026). Optimal relief in catastrophe insurance with premium subsidies: A welfare-based analysis. Under Revision. </li>
 
 <li><strong>Yong, Y.</strong>, Zhang, Y., and Zhu, X. (2026) Risk sharing with government protection under distorted probabilities. Under Review.</li>
 
