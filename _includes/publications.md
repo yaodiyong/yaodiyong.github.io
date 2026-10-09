@@ -6,9 +6,9 @@ Note: * denotes the corresponding author, and # means that authors are alphabeti
 
 <li>Pu, T., <strong>Yong, Y.</strong>, Zhang, J. and Zhang, Y. (2026). Stochastic dominance for claim spacings from heterogeneous insurance portfolios. <i><b> Statistical Theory and Related Fields</b></i>. Forthcoming. (<a href="https://www.tandfonline.com/doi/full/10.1080/24754269.2026.2733597">Link</a>) </li>
 
-<li>Cheung, K.C., Song, X., <strong>Yong, Y.*</strong>, and Zhang, Y. (2026). Budget-constrained semi-dynamic optimal reinsurance strategies. <i><b>Journal of Industrial and Management & Optimization</b></i>. Forthcoming. </li>
+<li>Cheung, K.C., Song, X., <strong>Yong, Y.*</strong>, and Zhang, Y. (2026). Budget-constrained semi-dynamic optimal reinsurance strategies. <i><b>Journal of Industrial and Management & Optimization</b></i>. Forthcoming. (<a href="https://www.aimspress.com/article/doi/10.3934/jimo.2026181">Link</a>) </li>
 
-<li> Wang, W., <strong>Yong, Y.</strong>, Cheung, K.C., Zhang, Y.*. (2026). Insurance demand under government interventions and distorted probabilities. <i><b> Insurance: Mathematics and Economics</b></i>. Forthcoming. </li>
+<li> Wang, W., <strong>Yong, Y.</strong>, Cheung, K.C., Zhang, Y.*. (2026). Insurance demand under government interventions and distorted probabilities. <i><b> Insurance: Mathematics and Economics</b></i>. Forthcoming. (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0167668726000399">Link</a>)</li>
 
 <li> Boonen, T.J., Jiang, W., <strong>Yong, Y.</strong>, Zhang, Y.*. (2025). Optimal insurance design in the presence of government financial assistance. <i><b> Scandinavian Actuarial Journal</b></i>.(<a href="https://www.tandfonline.com/doi/full/10.1080/03461238.2025.2471334">Link</a>) </li>
 
