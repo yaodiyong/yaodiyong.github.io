@@ -41,6 +41,4 @@ Note: * denotes the corresponding author, and # means that authors are alphabeti
 
 <li><strong>Yong, Y.</strong>, Zhang, Y., and Zhu, X. (2026) Risk sharing with government protection under distorted probabilities. Under Review.</li>
 
-<li><strong>Yong, Y.</strong>, Zhang, J., and Zhu, X. (2026) Optimal Transition Schedules for Retirement Age Increases: Welfare and Intergenerational Fairness. Submitted.</li>
-
 </ol>
