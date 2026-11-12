@@ -4,6 +4,8 @@ Note: * denotes the corresponding author, and # means that authors are alphabeti
 
 <ol>
 
+<li>Xie, J., <strong>Yong, Y.</strong> and Zhang, Z. (2026). Valuation of guaranteed minimum accumulation benefits with surrender risk in exponential Levy models. <i><b>Bulletin of the Malaysian Mathematical Sciences Society</b></i>. Forthcoming. </li>
+
 <li>Pu, T., <strong>Yong, Y.</strong>, Zhang, J. and Zhang, Y. (2026). Stochastic dominance for claim spacings from heterogeneous insurance portfolios. <i><b> Statistical Theory and Related Fields</b></i>. Forthcoming. (<a href="https://www.tandfonline.com/doi/full/10.1080/24754269.2026.2733597">Link</a>) </li>
 
 <li>Cheung, K.C., Song, X., <strong>Yong, Y.*</strong>, and Zhang, Y. (2026). Budget-constrained semi-dynamic optimal reinsurance strategies. <i><b>Journal of Industrial and Management & Optimization</b></i>. Forthcoming. (<a href="https://www.aimspress.com/article/doi/10.3934/jimo.2026181">Link</a>) </li>
